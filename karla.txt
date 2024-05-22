@@ -1,0 +1,6 @@
+a.
+T_primeiros_sintomas_atendimento_medico: quantitativo, discreto.
+Tempo entre os primeiros sintomas e o atendimento médico. (em dias?)
+
+- Os três primeiros campos, representando tempo, são quantitativos, discretos e de escala de razão
+- Os demais atributos são categóricos, escala nominal e de cardinalidade binária pois representam a presença ou ausência de uma causa ou sintoma.
